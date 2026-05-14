@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety_section_part_20" xml:lang="en-us">
+  <title>
+    <b>Safety Section (Part 20)</b>
+  </title>
+  <shortdesc>Do not operate this truck unless you are trained and authorised. Read and obey all</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>maintenance</keyword>
+        <keyword>Safety</keyword>
+        <keyword>Section</keyword>
+        <keyword>before</keyword>
+        <keyword>precautions</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>maintenance</indexterm>
+        <indexterm>Safety</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <note type="warning">A MOVING VEHICLE CAN BE DANGEROUS. You or others around you can be seriously injured or even killed if you are not careful or don't know how to use this truck correctly.</note>
+    <p>Do not operate this truck unless you are trained and authorised. Read and obey all warnings and instructions in this Manual and on the truck.</p>
+    <p>Make sure the truck is in good working order. Head, arms, hands or legs outside the operator area can be pinned or crushed whenever the truck is moving. Stay within the operator area and stop completely before getting off.</p>
+    <p>A dockboard can move or drop while you are on it. Or you could drive off a dock. Falls from docks or dockboards can cause serious injury or even death. Make sure you are safe.</p>
+    <p>The Safety Section lists basic safety precautions. In addition, this section identifies the text and locations of warning signs and labels used on the lift truck.</p>
+    <p>Read and understand the basic precautions listed in the Safety Section before operating or performing lubrication, maintenance and repair on this lift truck.</p>
+    <p>Page 364 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
