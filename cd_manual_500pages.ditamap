@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="cd_manual_500pages" xml:lang="en-us">
+  <title>CD Manual 500Pages</title>
+  <topicmeta>
+    <critdates>
+      <created date="2026-05-07" />
+      <revised modified="2026-05-07" />
+    </critdates>
+  </topicmeta>
+  <mapref href="operation_maintenance_manual_map.ditamap" navtitle="Operation &amp; Maintenance Manual" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7" format="ditamap" />
+  <mapref href="safety_section_map.ditamap" navtitle="Safety Section" format="ditamap" />
+  <mapref href="operator_restraint_system_map.ditamap" navtitle="Operator Restraint System" format="ditamap" />
+  <mapref href="operation_section_map.ditamap" navtitle="Operation Section" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_map.ditamap" navtitle="General Specifications – CD100S-7" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_map.ditamap" navtitle="General Specifications – CD120S-7" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_map.ditamap" navtitle="General Specifications – CD140S-7" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_map.ditamap" navtitle="General Specifications – CD160S-7" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_map.ditamap" navtitle="Maintenance Section – Service Intervals" format="ditamap" />
+  <mapref href="lubrication_specifications_map.ditamap" navtitle="Lubrication Specifications" format="ditamap" />
+  <mapref href="tyre_inflation_information_map.ditamap" navtitle="Tyre Inflation Information" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications" format="ditamap" />
+  <mapref href="before_starting_the_engine_map.ditamap" navtitle="Before Starting the Engine" format="ditamap" />
+  <mapref href="starting_the_engine_map.ditamap" navtitle="Starting the Engine" format="ditamap" />
+  <mapref href="lift_truck_operation_map.ditamap" navtitle="Lift Truck Operation" format="ditamap" />
+  <mapref href="operating_techniques_map.ditamap" navtitle="Operating Techniques" format="ditamap" />
+  <mapref href="parking_the_lift_truck_map.ditamap" navtitle="Parking the Lift Truck" format="ditamap" />
+  <mapref href="transportation_hints_map.ditamap" navtitle="Transportation Hints" format="ditamap" />
+  <mapref href="environment_protection_map.ditamap" navtitle="Environment Protection" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_2_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 2)" format="ditamap" />
+  <mapref href="safety_section_part_2_map.ditamap" navtitle="Safety Section (Part 2)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_2_map.ditamap" navtitle="Operator Restraint System (Part 2)" format="ditamap" />
+  <mapref href="operation_section_part_2_map.ditamap" navtitle="Operation Section (Part 2)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_2_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 2)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_2_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 2)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_2_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 2)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_2_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 2)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_2_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 2)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_2_map.ditamap" navtitle="Lubrication Specifications (Part 2)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_2_map.ditamap" navtitle="Tyre Inflation Information (Part 2)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_2_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 2)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_2_map.ditamap" navtitle="Before Starting the Engine (Part 2)" format="ditamap" />
+  <mapref href="starting_the_engine_part_2_map.ditamap" navtitle="Starting the Engine (Part 2)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_2_map.ditamap" navtitle="Lift Truck Operation (Part 2)" format="ditamap" />
+  <mapref href="operating_techniques_part_2_map.ditamap" navtitle="Operating Techniques (Part 2)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_2_map.ditamap" navtitle="Parking the Lift Truck (Part 2)" format="ditamap" />
+  <mapref href="transportation_hints_part_2_map.ditamap" navtitle="Transportation Hints (Part 2)" format="ditamap" />
+  <mapref href="environment_protection_part_2_map.ditamap" navtitle="Environment Protection (Part 2)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_3_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 3)" format="ditamap" />
+  <mapref href="safety_section_part_3_map.ditamap" navtitle="Safety Section (Part 3)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_3_map.ditamap" navtitle="Operator Restraint System (Part 3)" format="ditamap" />
+  <mapref href="operation_section_part_3_map.ditamap" navtitle="Operation Section (Part 3)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_3_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 3)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_3_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 3)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_3_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 3)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_3_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 3)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_3_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 3)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_3_map.ditamap" navtitle="Lubrication Specifications (Part 3)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_3_map.ditamap" navtitle="Tyre Inflation Information (Part 3)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_3_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 3)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_3_map.ditamap" navtitle="Before Starting the Engine (Part 3)" format="ditamap" />
+  <mapref href="starting_the_engine_part_3_map.ditamap" navtitle="Starting the Engine (Part 3)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_3_map.ditamap" navtitle="Lift Truck Operation (Part 3)" format="ditamap" />
+  <mapref href="operating_techniques_part_3_map.ditamap" navtitle="Operating Techniques (Part 3)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_3_map.ditamap" navtitle="Parking the Lift Truck (Part 3)" format="ditamap" />
+  <mapref href="transportation_hints_part_3_map.ditamap" navtitle="Transportation Hints (Part 3)" format="ditamap" />
+  <mapref href="environment_protection_part_3_map.ditamap" navtitle="Environment Protection (Part 3)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_4_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 4)" format="ditamap" />
+  <mapref href="safety_section_part_4_map.ditamap" navtitle="Safety Section (Part 4)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_4_map.ditamap" navtitle="Operator Restraint System (Part 4)" format="ditamap" />
+  <mapref href="operation_section_part_4_map.ditamap" navtitle="Operation Section (Part 4)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_4_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 4)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_4_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 4)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_4_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 4)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_4_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 4)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_4_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 4)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_4_map.ditamap" navtitle="Lubrication Specifications (Part 4)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_4_map.ditamap" navtitle="Tyre Inflation Information (Part 4)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_4_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 4)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_4_map.ditamap" navtitle="Before Starting the Engine (Part 4)" format="ditamap" />
+  <mapref href="starting_the_engine_part_4_map.ditamap" navtitle="Starting the Engine (Part 4)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_4_map.ditamap" navtitle="Lift Truck Operation (Part 4)" format="ditamap" />
+  <mapref href="operating_techniques_part_4_map.ditamap" navtitle="Operating Techniques (Part 4)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_4_map.ditamap" navtitle="Parking the Lift Truck (Part 4)" format="ditamap" />
+  <mapref href="transportation_hints_part_4_map.ditamap" navtitle="Transportation Hints (Part 4)" format="ditamap" />
+  <mapref href="environment_protection_part_4_map.ditamap" navtitle="Environment Protection (Part 4)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_5_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 5)" format="ditamap" />
+  <mapref href="safety_section_part_5_map.ditamap" navtitle="Safety Section (Part 5)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_5_map.ditamap" navtitle="Operator Restraint System (Part 5)" format="ditamap" />
+  <mapref href="operation_section_part_5_map.ditamap" navtitle="Operation Section (Part 5)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_5_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 5)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_5_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 5)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_5_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 5)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_5_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 5)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_5_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 5)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_5_map.ditamap" navtitle="Lubrication Specifications (Part 5)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_5_map.ditamap" navtitle="Tyre Inflation Information (Part 5)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_5_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 5)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_5_map.ditamap" navtitle="Before Starting the Engine (Part 5)" format="ditamap" />
+  <mapref href="starting_the_engine_part_5_map.ditamap" navtitle="Starting the Engine (Part 5)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_5_map.ditamap" navtitle="Lift Truck Operation (Part 5)" format="ditamap" />
+  <mapref href="operating_techniques_part_5_map.ditamap" navtitle="Operating Techniques (Part 5)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_5_map.ditamap" navtitle="Parking the Lift Truck (Part 5)" format="ditamap" />
+  <mapref href="transportation_hints_part_5_map.ditamap" navtitle="Transportation Hints (Part 5)" format="ditamap" />
+  <mapref href="environment_protection_part_5_map.ditamap" navtitle="Environment Protection (Part 5)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_6_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 6)" format="ditamap" />
+  <mapref href="safety_section_part_6_map.ditamap" navtitle="Safety Section (Part 6)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_6_map.ditamap" navtitle="Operator Restraint System (Part 6)" format="ditamap" />
+  <mapref href="operation_section_part_6_map.ditamap" navtitle="Operation Section (Part 6)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_6_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 6)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_6_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 6)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_6_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 6)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_6_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 6)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_6_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 6)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_6_map.ditamap" navtitle="Lubrication Specifications (Part 6)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_6_map.ditamap" navtitle="Tyre Inflation Information (Part 6)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_6_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 6)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_6_map.ditamap" navtitle="Before Starting the Engine (Part 6)" format="ditamap" />
+  <mapref href="starting_the_engine_part_6_map.ditamap" navtitle="Starting the Engine (Part 6)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_6_map.ditamap" navtitle="Lift Truck Operation (Part 6)" format="ditamap" />
+  <mapref href="operating_techniques_part_6_map.ditamap" navtitle="Operating Techniques (Part 6)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_6_map.ditamap" navtitle="Parking the Lift Truck (Part 6)" format="ditamap" />
+  <mapref href="transportation_hints_part_6_map.ditamap" navtitle="Transportation Hints (Part 6)" format="ditamap" />
+  <mapref href="environment_protection_part_6_map.ditamap" navtitle="Environment Protection (Part 6)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_7_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 7)" format="ditamap" />
+  <mapref href="safety_section_part_7_map.ditamap" navtitle="Safety Section (Part 7)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_7_map.ditamap" navtitle="Operator Restraint System (Part 7)" format="ditamap" />
+  <mapref href="operation_section_part_7_map.ditamap" navtitle="Operation Section (Part 7)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_7_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 7)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_7_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 7)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_7_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 7)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_7_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 7)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_7_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 7)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_7_map.ditamap" navtitle="Lubrication Specifications (Part 7)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_7_map.ditamap" navtitle="Tyre Inflation Information (Part 7)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_7_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 7)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_7_map.ditamap" navtitle="Before Starting the Engine (Part 7)" format="ditamap" />
+  <mapref href="starting_the_engine_part_7_map.ditamap" navtitle="Starting the Engine (Part 7)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_7_map.ditamap" navtitle="Lift Truck Operation (Part 7)" format="ditamap" />
+  <mapref href="operating_techniques_part_7_map.ditamap" navtitle="Operating Techniques (Part 7)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_7_map.ditamap" navtitle="Parking the Lift Truck (Part 7)" format="ditamap" />
+  <mapref href="transportation_hints_part_7_map.ditamap" navtitle="Transportation Hints (Part 7)" format="ditamap" />
+  <mapref href="environment_protection_part_7_map.ditamap" navtitle="Environment Protection (Part 7)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_8_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 8)" format="ditamap" />
+  <mapref href="safety_section_part_8_map.ditamap" navtitle="Safety Section (Part 8)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_8_map.ditamap" navtitle="Operator Restraint System (Part 8)" format="ditamap" />
+  <mapref href="operation_section_part_8_map.ditamap" navtitle="Operation Section (Part 8)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_8_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 8)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_8_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 8)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_8_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 8)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_8_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 8)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_8_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 8)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_8_map.ditamap" navtitle="Lubrication Specifications (Part 8)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_8_map.ditamap" navtitle="Tyre Inflation Information (Part 8)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_8_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 8)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_8_map.ditamap" navtitle="Before Starting the Engine (Part 8)" format="ditamap" />
+  <mapref href="starting_the_engine_part_8_map.ditamap" navtitle="Starting the Engine (Part 8)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_8_map.ditamap" navtitle="Lift Truck Operation (Part 8)" format="ditamap" />
+  <mapref href="operating_techniques_part_8_map.ditamap" navtitle="Operating Techniques (Part 8)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_8_map.ditamap" navtitle="Parking the Lift Truck (Part 8)" format="ditamap" />
+  <mapref href="transportation_hints_part_8_map.ditamap" navtitle="Transportation Hints (Part 8)" format="ditamap" />
+  <mapref href="environment_protection_part_8_map.ditamap" navtitle="Environment Protection (Part 8)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_9_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 9)" format="ditamap" />
+  <mapref href="safety_section_part_9_map.ditamap" navtitle="Safety Section (Part 9)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_9_map.ditamap" navtitle="Operator Restraint System (Part 9)" format="ditamap" />
+  <mapref href="operation_section_part_9_map.ditamap" navtitle="Operation Section (Part 9)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_9_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 9)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_9_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 9)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_9_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 9)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_9_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 9)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_9_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 9)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_9_map.ditamap" navtitle="Lubrication Specifications (Part 9)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_9_map.ditamap" navtitle="Tyre Inflation Information (Part 9)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_9_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 9)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_9_map.ditamap" navtitle="Before Starting the Engine (Part 9)" format="ditamap" />
+  <mapref href="starting_the_engine_part_9_map.ditamap" navtitle="Starting the Engine (Part 9)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_9_map.ditamap" navtitle="Lift Truck Operation (Part 9)" format="ditamap" />
+  <mapref href="operating_techniques_part_9_map.ditamap" navtitle="Operating Techniques (Part 9)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_9_map.ditamap" navtitle="Parking the Lift Truck (Part 9)" format="ditamap" />
+  <mapref href="transportation_hints_part_9_map.ditamap" navtitle="Transportation Hints (Part 9)" format="ditamap" />
+  <mapref href="environment_protection_part_9_map.ditamap" navtitle="Environment Protection (Part 9)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_10_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 10)" format="ditamap" />
+  <mapref href="safety_section_part_10_map.ditamap" navtitle="Safety Section (Part 10)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_10_map.ditamap" navtitle="Operator Restraint System (Part 10)" format="ditamap" />
+  <mapref href="operation_section_part_10_map.ditamap" navtitle="Operation Section (Part 10)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_10_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 10)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_10_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 10)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_10_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 10)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_10_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 10)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_10_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 10)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_10_map.ditamap" navtitle="Lubrication Specifications (Part 10)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_10_map.ditamap" navtitle="Tyre Inflation Information (Part 10)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_10_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 10)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_10_map.ditamap" navtitle="Before Starting the Engine (Part 10)" format="ditamap" />
+  <mapref href="starting_the_engine_part_10_map.ditamap" navtitle="Starting the Engine (Part 10)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_10_map.ditamap" navtitle="Lift Truck Operation (Part 10)" format="ditamap" />
+  <mapref href="operating_techniques_part_10_map.ditamap" navtitle="Operating Techniques (Part 10)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_10_map.ditamap" navtitle="Parking the Lift Truck (Part 10)" format="ditamap" />
+  <mapref href="transportation_hints_part_10_map.ditamap" navtitle="Transportation Hints (Part 10)" format="ditamap" />
+  <mapref href="environment_protection_part_10_map.ditamap" navtitle="Environment Protection (Part 10)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_11_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 11)" format="ditamap" />
+  <mapref href="safety_section_part_11_map.ditamap" navtitle="Safety Section (Part 11)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_11_map.ditamap" navtitle="Operator Restraint System (Part 11)" format="ditamap" />
+  <mapref href="operation_section_part_11_map.ditamap" navtitle="Operation Section (Part 11)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_11_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 11)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_11_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 11)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_11_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 11)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_11_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 11)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_11_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 11)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_11_map.ditamap" navtitle="Lubrication Specifications (Part 11)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_11_map.ditamap" navtitle="Tyre Inflation Information (Part 11)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_11_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 11)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_11_map.ditamap" navtitle="Before Starting the Engine (Part 11)" format="ditamap" />
+  <mapref href="starting_the_engine_part_11_map.ditamap" navtitle="Starting the Engine (Part 11)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_11_map.ditamap" navtitle="Lift Truck Operation (Part 11)" format="ditamap" />
+  <mapref href="operating_techniques_part_11_map.ditamap" navtitle="Operating Techniques (Part 11)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_11_map.ditamap" navtitle="Parking the Lift Truck (Part 11)" format="ditamap" />
+  <mapref href="transportation_hints_part_11_map.ditamap" navtitle="Transportation Hints (Part 11)" format="ditamap" />
+  <mapref href="environment_protection_part_11_map.ditamap" navtitle="Environment Protection (Part 11)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_12_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 12)" format="ditamap" />
+  <mapref href="safety_section_part_12_map.ditamap" navtitle="Safety Section (Part 12)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_12_map.ditamap" navtitle="Operator Restraint System (Part 12)" format="ditamap" />
+  <mapref href="operation_section_part_12_map.ditamap" navtitle="Operation Section (Part 12)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_12_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 12)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_12_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 12)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_12_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 12)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_12_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 12)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_12_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 12)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_12_map.ditamap" navtitle="Lubrication Specifications (Part 12)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_12_map.ditamap" navtitle="Tyre Inflation Information (Part 12)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_12_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 12)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_12_map.ditamap" navtitle="Before Starting the Engine (Part 12)" format="ditamap" />
+  <mapref href="starting_the_engine_part_12_map.ditamap" navtitle="Starting the Engine (Part 12)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_12_map.ditamap" navtitle="Lift Truck Operation (Part 12)" format="ditamap" />
+  <mapref href="operating_techniques_part_12_map.ditamap" navtitle="Operating Techniques (Part 12)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_12_map.ditamap" navtitle="Parking the Lift Truck (Part 12)" format="ditamap" />
+  <mapref href="transportation_hints_part_12_map.ditamap" navtitle="Transportation Hints (Part 12)" format="ditamap" />
+  <mapref href="environment_protection_part_12_map.ditamap" navtitle="Environment Protection (Part 12)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_13_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 13)" format="ditamap" />
+  <mapref href="safety_section_part_13_map.ditamap" navtitle="Safety Section (Part 13)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_13_map.ditamap" navtitle="Operator Restraint System (Part 13)" format="ditamap" />
+  <mapref href="operation_section_part_13_map.ditamap" navtitle="Operation Section (Part 13)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_13_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 13)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_13_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 13)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_13_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 13)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_13_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 13)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_13_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 13)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_13_map.ditamap" navtitle="Lubrication Specifications (Part 13)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_13_map.ditamap" navtitle="Tyre Inflation Information (Part 13)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_13_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 13)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_13_map.ditamap" navtitle="Before Starting the Engine (Part 13)" format="ditamap" />
+  <mapref href="starting_the_engine_part_13_map.ditamap" navtitle="Starting the Engine (Part 13)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_13_map.ditamap" navtitle="Lift Truck Operation (Part 13)" format="ditamap" />
+  <mapref href="operating_techniques_part_13_map.ditamap" navtitle="Operating Techniques (Part 13)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_13_map.ditamap" navtitle="Parking the Lift Truck (Part 13)" format="ditamap" />
+  <mapref href="transportation_hints_part_13_map.ditamap" navtitle="Transportation Hints (Part 13)" format="ditamap" />
+  <mapref href="environment_protection_part_13_map.ditamap" navtitle="Environment Protection (Part 13)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_14_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 14)" format="ditamap" />
+  <mapref href="safety_section_part_14_map.ditamap" navtitle="Safety Section (Part 14)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_14_map.ditamap" navtitle="Operator Restraint System (Part 14)" format="ditamap" />
+  <mapref href="operation_section_part_14_map.ditamap" navtitle="Operation Section (Part 14)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_14_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 14)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_14_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 14)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_14_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 14)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_14_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 14)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_14_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 14)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_14_map.ditamap" navtitle="Lubrication Specifications (Part 14)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_14_map.ditamap" navtitle="Tyre Inflation Information (Part 14)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_14_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 14)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_14_map.ditamap" navtitle="Before Starting the Engine (Part 14)" format="ditamap" />
+  <mapref href="starting_the_engine_part_14_map.ditamap" navtitle="Starting the Engine (Part 14)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_14_map.ditamap" navtitle="Lift Truck Operation (Part 14)" format="ditamap" />
+  <mapref href="operating_techniques_part_14_map.ditamap" navtitle="Operating Techniques (Part 14)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_14_map.ditamap" navtitle="Parking the Lift Truck (Part 14)" format="ditamap" />
+  <mapref href="transportation_hints_part_14_map.ditamap" navtitle="Transportation Hints (Part 14)" format="ditamap" />
+  <mapref href="environment_protection_part_14_map.ditamap" navtitle="Environment Protection (Part 14)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_15_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 15)" format="ditamap" />
+  <mapref href="safety_section_part_15_map.ditamap" navtitle="Safety Section (Part 15)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_15_map.ditamap" navtitle="Operator Restraint System (Part 15)" format="ditamap" />
+  <mapref href="operation_section_part_15_map.ditamap" navtitle="Operation Section (Part 15)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_15_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 15)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_15_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 15)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_15_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 15)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_15_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 15)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_15_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 15)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_15_map.ditamap" navtitle="Lubrication Specifications (Part 15)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_15_map.ditamap" navtitle="Tyre Inflation Information (Part 15)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_15_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 15)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_15_map.ditamap" navtitle="Before Starting the Engine (Part 15)" format="ditamap" />
+  <mapref href="starting_the_engine_part_15_map.ditamap" navtitle="Starting the Engine (Part 15)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_15_map.ditamap" navtitle="Lift Truck Operation (Part 15)" format="ditamap" />
+  <mapref href="operating_techniques_part_15_map.ditamap" navtitle="Operating Techniques (Part 15)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_15_map.ditamap" navtitle="Parking the Lift Truck (Part 15)" format="ditamap" />
+  <mapref href="transportation_hints_part_15_map.ditamap" navtitle="Transportation Hints (Part 15)" format="ditamap" />
+  <mapref href="environment_protection_part_15_map.ditamap" navtitle="Environment Protection (Part 15)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_16_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 16)" format="ditamap" />
+  <mapref href="safety_section_part_16_map.ditamap" navtitle="Safety Section (Part 16)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_16_map.ditamap" navtitle="Operator Restraint System (Part 16)" format="ditamap" />
+  <mapref href="operation_section_part_16_map.ditamap" navtitle="Operation Section (Part 16)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_16_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 16)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_16_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 16)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_16_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 16)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_16_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 16)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_16_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 16)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_16_map.ditamap" navtitle="Lubrication Specifications (Part 16)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_16_map.ditamap" navtitle="Tyre Inflation Information (Part 16)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_16_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 16)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_16_map.ditamap" navtitle="Before Starting the Engine (Part 16)" format="ditamap" />
+  <mapref href="starting_the_engine_part_16_map.ditamap" navtitle="Starting the Engine (Part 16)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_16_map.ditamap" navtitle="Lift Truck Operation (Part 16)" format="ditamap" />
+  <mapref href="operating_techniques_part_16_map.ditamap" navtitle="Operating Techniques (Part 16)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_16_map.ditamap" navtitle="Parking the Lift Truck (Part 16)" format="ditamap" />
+  <mapref href="transportation_hints_part_16_map.ditamap" navtitle="Transportation Hints (Part 16)" format="ditamap" />
+  <mapref href="environment_protection_part_16_map.ditamap" navtitle="Environment Protection (Part 16)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_17_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 17)" format="ditamap" />
+  <mapref href="safety_section_part_17_map.ditamap" navtitle="Safety Section (Part 17)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_17_map.ditamap" navtitle="Operator Restraint System (Part 17)" format="ditamap" />
+  <mapref href="operation_section_part_17_map.ditamap" navtitle="Operation Section (Part 17)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_17_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 17)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_17_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 17)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_17_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 17)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_17_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 17)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_17_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 17)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_17_map.ditamap" navtitle="Lubrication Specifications (Part 17)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_17_map.ditamap" navtitle="Tyre Inflation Information (Part 17)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_17_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 17)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_17_map.ditamap" navtitle="Before Starting the Engine (Part 17)" format="ditamap" />
+  <mapref href="starting_the_engine_part_17_map.ditamap" navtitle="Starting the Engine (Part 17)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_17_map.ditamap" navtitle="Lift Truck Operation (Part 17)" format="ditamap" />
+  <mapref href="operating_techniques_part_17_map.ditamap" navtitle="Operating Techniques (Part 17)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_17_map.ditamap" navtitle="Parking the Lift Truck (Part 17)" format="ditamap" />
+  <mapref href="transportation_hints_part_17_map.ditamap" navtitle="Transportation Hints (Part 17)" format="ditamap" />
+  <mapref href="environment_protection_part_17_map.ditamap" navtitle="Environment Protection (Part 17)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_18_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 18)" format="ditamap" />
+  <mapref href="safety_section_part_18_map.ditamap" navtitle="Safety Section (Part 18)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_18_map.ditamap" navtitle="Operator Restraint System (Part 18)" format="ditamap" />
+  <mapref href="operation_section_part_18_map.ditamap" navtitle="Operation Section (Part 18)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_18_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 18)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_18_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 18)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_18_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 18)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_18_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 18)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_18_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 18)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_18_map.ditamap" navtitle="Lubrication Specifications (Part 18)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_18_map.ditamap" navtitle="Tyre Inflation Information (Part 18)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_18_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 18)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_18_map.ditamap" navtitle="Before Starting the Engine (Part 18)" format="ditamap" />
+  <mapref href="starting_the_engine_part_18_map.ditamap" navtitle="Starting the Engine (Part 18)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_18_map.ditamap" navtitle="Lift Truck Operation (Part 18)" format="ditamap" />
+  <mapref href="operating_techniques_part_18_map.ditamap" navtitle="Operating Techniques (Part 18)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_18_map.ditamap" navtitle="Parking the Lift Truck (Part 18)" format="ditamap" />
+  <mapref href="transportation_hints_part_18_map.ditamap" navtitle="Transportation Hints (Part 18)" format="ditamap" />
+  <mapref href="environment_protection_part_18_map.ditamap" navtitle="Environment Protection (Part 18)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_19_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 19)" format="ditamap" />
+  <mapref href="safety_section_part_19_map.ditamap" navtitle="Safety Section (Part 19)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_19_map.ditamap" navtitle="Operator Restraint System (Part 19)" format="ditamap" />
+  <mapref href="operation_section_part_19_map.ditamap" navtitle="Operation Section (Part 19)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_19_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 19)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_19_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 19)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_19_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 19)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_19_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 19)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_19_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 19)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_19_map.ditamap" navtitle="Lubrication Specifications (Part 19)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_19_map.ditamap" navtitle="Tyre Inflation Information (Part 19)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_19_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 19)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_19_map.ditamap" navtitle="Before Starting the Engine (Part 19)" format="ditamap" />
+  <mapref href="starting_the_engine_part_19_map.ditamap" navtitle="Starting the Engine (Part 19)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_19_map.ditamap" navtitle="Lift Truck Operation (Part 19)" format="ditamap" />
+  <mapref href="operating_techniques_part_19_map.ditamap" navtitle="Operating Techniques (Part 19)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_19_map.ditamap" navtitle="Parking the Lift Truck (Part 19)" format="ditamap" />
+  <mapref href="transportation_hints_part_19_map.ditamap" navtitle="Transportation Hints (Part 19)" format="ditamap" />
+  <mapref href="environment_protection_part_19_map.ditamap" navtitle="Environment Protection (Part 19)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_20_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 20)" format="ditamap" />
+  <mapref href="safety_section_part_20_map.ditamap" navtitle="Safety Section (Part 20)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_20_map.ditamap" navtitle="Operator Restraint System (Part 20)" format="ditamap" />
+  <mapref href="operation_section_part_20_map.ditamap" navtitle="Operation Section (Part 20)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_20_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 20)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_20_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 20)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_20_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 20)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_20_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 20)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_20_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 20)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_20_map.ditamap" navtitle="Lubrication Specifications (Part 20)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_20_map.ditamap" navtitle="Tyre Inflation Information (Part 20)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_20_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 20)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_20_map.ditamap" navtitle="Before Starting the Engine (Part 20)" format="ditamap" />
+  <mapref href="starting_the_engine_part_20_map.ditamap" navtitle="Starting the Engine (Part 20)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_20_map.ditamap" navtitle="Lift Truck Operation (Part 20)" format="ditamap" />
+  <mapref href="operating_techniques_part_20_map.ditamap" navtitle="Operating Techniques (Part 20)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_20_map.ditamap" navtitle="Parking the Lift Truck (Part 20)" format="ditamap" />
+  <mapref href="transportation_hints_part_20_map.ditamap" navtitle="Transportation Hints (Part 20)" format="ditamap" />
+  <mapref href="environment_protection_part_20_map.ditamap" navtitle="Environment Protection (Part 20)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_21_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 21)" format="ditamap" />
+  <mapref href="safety_section_part_21_map.ditamap" navtitle="Safety Section (Part 21)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_21_map.ditamap" navtitle="Operator Restraint System (Part 21)" format="ditamap" />
+  <mapref href="operation_section_part_21_map.ditamap" navtitle="Operation Section (Part 21)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_21_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 21)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_21_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 21)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_21_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 21)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_21_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 21)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_21_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 21)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_21_map.ditamap" navtitle="Lubrication Specifications (Part 21)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_21_map.ditamap" navtitle="Tyre Inflation Information (Part 21)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_21_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 21)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_21_map.ditamap" navtitle="Before Starting the Engine (Part 21)" format="ditamap" />
+  <mapref href="starting_the_engine_part_21_map.ditamap" navtitle="Starting the Engine (Part 21)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_21_map.ditamap" navtitle="Lift Truck Operation (Part 21)" format="ditamap" />
+  <mapref href="operating_techniques_part_21_map.ditamap" navtitle="Operating Techniques (Part 21)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_21_map.ditamap" navtitle="Parking the Lift Truck (Part 21)" format="ditamap" />
+  <mapref href="transportation_hints_part_21_map.ditamap" navtitle="Transportation Hints (Part 21)" format="ditamap" />
+  <mapref href="environment_protection_part_21_map.ditamap" navtitle="Environment Protection (Part 21)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_22_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 22)" format="ditamap" />
+  <mapref href="safety_section_part_22_map.ditamap" navtitle="Safety Section (Part 22)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_22_map.ditamap" navtitle="Operator Restraint System (Part 22)" format="ditamap" />
+  <mapref href="operation_section_part_22_map.ditamap" navtitle="Operation Section (Part 22)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_22_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 22)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_22_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 22)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_22_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 22)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_22_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 22)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_22_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 22)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_22_map.ditamap" navtitle="Lubrication Specifications (Part 22)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_22_map.ditamap" navtitle="Tyre Inflation Information (Part 22)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_22_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 22)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_22_map.ditamap" navtitle="Before Starting the Engine (Part 22)" format="ditamap" />
+  <mapref href="starting_the_engine_part_22_map.ditamap" navtitle="Starting the Engine (Part 22)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_22_map.ditamap" navtitle="Lift Truck Operation (Part 22)" format="ditamap" />
+  <mapref href="operating_techniques_part_22_map.ditamap" navtitle="Operating Techniques (Part 22)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_22_map.ditamap" navtitle="Parking the Lift Truck (Part 22)" format="ditamap" />
+  <mapref href="transportation_hints_part_22_map.ditamap" navtitle="Transportation Hints (Part 22)" format="ditamap" />
+  <mapref href="environment_protection_part_22_map.ditamap" navtitle="Environment Protection (Part 22)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_23_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 23)" format="ditamap" />
+  <mapref href="safety_section_part_23_map.ditamap" navtitle="Safety Section (Part 23)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_23_map.ditamap" navtitle="Operator Restraint System (Part 23)" format="ditamap" />
+  <mapref href="operation_section_part_23_map.ditamap" navtitle="Operation Section (Part 23)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_23_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 23)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_23_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 23)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_23_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 23)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_23_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 23)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_23_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 23)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_23_map.ditamap" navtitle="Lubrication Specifications (Part 23)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_23_map.ditamap" navtitle="Tyre Inflation Information (Part 23)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_23_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 23)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_23_map.ditamap" navtitle="Before Starting the Engine (Part 23)" format="ditamap" />
+  <mapref href="starting_the_engine_part_23_map.ditamap" navtitle="Starting the Engine (Part 23)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_23_map.ditamap" navtitle="Lift Truck Operation (Part 23)" format="ditamap" />
+  <mapref href="operating_techniques_part_23_map.ditamap" navtitle="Operating Techniques (Part 23)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_23_map.ditamap" navtitle="Parking the Lift Truck (Part 23)" format="ditamap" />
+  <mapref href="transportation_hints_part_23_map.ditamap" navtitle="Transportation Hints (Part 23)" format="ditamap" />
+  <mapref href="environment_protection_part_23_map.ditamap" navtitle="Environment Protection (Part 23)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_24_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 24)" format="ditamap" />
+  <mapref href="safety_section_part_24_map.ditamap" navtitle="Safety Section (Part 24)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_24_map.ditamap" navtitle="Operator Restraint System (Part 24)" format="ditamap" />
+  <mapref href="operation_section_part_24_map.ditamap" navtitle="Operation Section (Part 24)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_24_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 24)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_24_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 24)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_24_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 24)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_24_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 24)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_24_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 24)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_24_map.ditamap" navtitle="Lubrication Specifications (Part 24)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_24_map.ditamap" navtitle="Tyre Inflation Information (Part 24)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_24_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 24)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_24_map.ditamap" navtitle="Before Starting the Engine (Part 24)" format="ditamap" />
+  <mapref href="starting_the_engine_part_24_map.ditamap" navtitle="Starting the Engine (Part 24)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_24_map.ditamap" navtitle="Lift Truck Operation (Part 24)" format="ditamap" />
+  <mapref href="operating_techniques_part_24_map.ditamap" navtitle="Operating Techniques (Part 24)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_24_map.ditamap" navtitle="Parking the Lift Truck (Part 24)" format="ditamap" />
+  <mapref href="transportation_hints_part_24_map.ditamap" navtitle="Transportation Hints (Part 24)" format="ditamap" />
+  <mapref href="environment_protection_part_24_map.ditamap" navtitle="Environment Protection (Part 24)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_25_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 25)" format="ditamap" />
+  <mapref href="safety_section_part_25_map.ditamap" navtitle="Safety Section (Part 25)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_25_map.ditamap" navtitle="Operator Restraint System (Part 25)" format="ditamap" />
+  <mapref href="operation_section_part_25_map.ditamap" navtitle="Operation Section (Part 25)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_25_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 25)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_25_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 25)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_25_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 25)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_25_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 25)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_25_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 25)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_25_map.ditamap" navtitle="Lubrication Specifications (Part 25)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_25_map.ditamap" navtitle="Tyre Inflation Information (Part 25)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_25_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 25)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_25_map.ditamap" navtitle="Before Starting the Engine (Part 25)" format="ditamap" />
+  <mapref href="starting_the_engine_part_25_map.ditamap" navtitle="Starting the Engine (Part 25)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_25_map.ditamap" navtitle="Lift Truck Operation (Part 25)" format="ditamap" />
+  <mapref href="operating_techniques_part_25_map.ditamap" navtitle="Operating Techniques (Part 25)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_25_map.ditamap" navtitle="Parking the Lift Truck (Part 25)" format="ditamap" />
+  <mapref href="transportation_hints_part_25_map.ditamap" navtitle="Transportation Hints (Part 25)" format="ditamap" />
+  <mapref href="environment_protection_part_25_map.ditamap" navtitle="Environment Protection (Part 25)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_26_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 26)" format="ditamap" />
+  <mapref href="safety_section_part_26_map.ditamap" navtitle="Safety Section (Part 26)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_26_map.ditamap" navtitle="Operator Restraint System (Part 26)" format="ditamap" />
+  <mapref href="operation_section_part_26_map.ditamap" navtitle="Operation Section (Part 26)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_26_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 26)" format="ditamap" />
+  <mapref href="general_specifications_cd120s_7_part_26_map.ditamap" navtitle="General Specifications – CD120S-7 (Part 26)" format="ditamap" />
+  <mapref href="general_specifications_cd140s_7_part_26_map.ditamap" navtitle="General Specifications – CD140S-7 (Part 26)" format="ditamap" />
+  <mapref href="general_specifications_cd160s_7_part_26_map.ditamap" navtitle="General Specifications – CD160S-7 (Part 26)" format="ditamap" />
+  <mapref href="maintenance_section_service_intervals_part_26_map.ditamap" navtitle="Maintenance Section – Service Intervals (Part 26)" format="ditamap" />
+  <mapref href="lubrication_specifications_part_26_map.ditamap" navtitle="Lubrication Specifications (Part 26)" format="ditamap" />
+  <mapref href="tyre_inflation_information_part_26_map.ditamap" navtitle="Tyre Inflation Information (Part 26)" format="ditamap" />
+  <mapref href="fuel_and_def_ad_blue_specifications_part_26_map.ditamap" navtitle="Fuel and DEF/Ad-Blue Specifications (Part 26)" format="ditamap" />
+  <mapref href="before_starting_the_engine_part_26_map.ditamap" navtitle="Before Starting the Engine (Part 26)" format="ditamap" />
+  <mapref href="starting_the_engine_part_26_map.ditamap" navtitle="Starting the Engine (Part 26)" format="ditamap" />
+  <mapref href="lift_truck_operation_part_26_map.ditamap" navtitle="Lift Truck Operation (Part 26)" format="ditamap" />
+  <mapref href="operating_techniques_part_26_map.ditamap" navtitle="Operating Techniques (Part 26)" format="ditamap" />
+  <mapref href="parking_the_lift_truck_part_26_map.ditamap" navtitle="Parking the Lift Truck (Part 26)" format="ditamap" />
+  <mapref href="transportation_hints_part_26_map.ditamap" navtitle="Transportation Hints (Part 26)" format="ditamap" />
+  <mapref href="environment_protection_part_26_map.ditamap" navtitle="Environment Protection (Part 26)" format="ditamap" />
+  <mapref href="operation_maintenance_manual_cd100s_7_cd120s_7_cd140s_7_cd160s_7_part_27_map.ditamap" navtitle="Operation &amp; Maintenance Manual – CD100S-7, CD120S-7, CD140S-7, CD160S-7 (Part 27)" format="ditamap" />
+  <mapref href="safety_section_part_27_map.ditamap" navtitle="Safety Section (Part 27)" format="ditamap" />
+  <mapref href="operator_restraint_system_part_27_map.ditamap" navtitle="Operator Restraint System (Part 27)" format="ditamap" />
+  <mapref href="operation_section_part_27_map.ditamap" navtitle="Operation Section (Part 27)" format="ditamap" />
+  <mapref href="general_specifications_cd100s_7_part_27_map.ditamap" navtitle="General Specifications – CD100S-7 (Part 27)" format="ditamap" />
+</map>
