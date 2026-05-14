@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="replacing_the_drive_pulley_with_a_clamping_bush" xml:lang="en-us">
+  <title>Replacing the Drive Pulley with a Clamping Bush</title>
+  <topicmeta>
+    <critdates>
+      <created date="2024-07-03" />
+      <revised modified="2024-07-03" />
+    </critdates>
+  </topicmeta>
+  <topicref href="replacing_the_drive_pulley_with_a_clamping_bush.dita" navtitle="Replacing the Drive Pulley with a Clamping Bush" />
+  <mapref href="purpose_application_map.ditamap" navtitle="Purpose/Application" format="ditamap" />
+  <mapref href="ppe_required_map.ditamap" navtitle="PPE Required" format="ditamap" />
+  <mapref href="safety_hazards_map.ditamap" navtitle="Safety Hazards" format="ditamap" />
+  <mapref href="respirable_crystalline_silica_map.ditamap" navtitle="Respirable Crystalline Silica" format="ditamap" />
+  <mapref href="safety_controls_map.ditamap" navtitle="Safety Controls" format="ditamap" />
+  <mapref href="equipment_needed_map.ditamap" navtitle="Equipment Needed" format="ditamap" />
+  <mapref href="comments_map.ditamap" navtitle="Comments" format="ditamap" />
+  <mapref href="safety_information_before_performing_maintenance_map.ditamap" navtitle="Safety Information Before Performing Maintenance" format="ditamap" />
+  <mapref href="general_maintenance_information_map.ditamap" navtitle="General Maintenance Information" format="ditamap" />
+  <mapref href="replacing_the_drive_pulley_with_a_clamping_bush_map.ditamap" navtitle="Replacing the Drive Pulley with a Clamping Bush" format="ditamap" />
+  <mapref href="torque_table_map.ditamap" navtitle="Torque Table" format="ditamap" />
+  <mapref href="approval_map.ditamap" navtitle="Approval" format="ditamap" />
+  <mapref href="revision_history_map.ditamap" navtitle="Revision History" format="ditamap" />
+</map>
