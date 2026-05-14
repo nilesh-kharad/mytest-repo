@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="environment_protection_part_3" xml:lang="en-us">
+  <title>
+    <b>Environment Protection (Part 3)</b>
+  </title>
+  <shortdesc>Do not allow engine oil, hydraulic fluid, coolant, or fuel to spill onto the ground.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>fluids</keyword>
+        <keyword>approved</keyword>
+        <keyword>truck</keyword>
+        <keyword>maintenance</keyword>
+        <keyword>properly</keyword>
+        <keyword>Dispose</keyword>
+        <indexterm>fluids</indexterm>
+        <indexterm>approved</indexterm>
+        <indexterm>truck</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Do not allow engine oil, hydraulic fluid, coolant, or fuel to spill onto the ground. Contain and properly dispose of all fluids.</p>
+    <p>Use approved containers for collecting used oils and fluids. Dispose of waste fluids in accordance with local environmental regulations.</p>
+    <p>The diesel particulate filter (DPF) removes particulate matter from exhaust gases. Do not modify or bypass the emissions control system.</p>
+    <p>DEF/Ad-Blue is an aqueous urea solution. Spills should be cleaned up immediately. DEF is not classified as hazardous but should be kept out of waterways.</p>
+    <p>Batteries contain sulfuric acid and lead. Dispose of old batteries at an approved recycling facility.</p>
+    <p>Tyres must be disposed of at an approved tyre recycling facility. Do not burn tyres.</p>
+    <p>Page 58 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
