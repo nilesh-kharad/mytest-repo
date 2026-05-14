@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Toc145508200" xml:lang="en-us">
+  <title>Safety Information Before Performing Maintenance</title>
+  <shortdesc>Danger due to electric shocks: Contact with live parts will result in severe injury or</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>parts</keyword>
+        <keyword>cullet</keyword>
+        <keyword>crusher</keyword>
+        <keyword>equipment</keyword>
+        <keyword>materials</keyword>
+        <keyword>Before</keyword>
+        <indexterm>parts</indexterm>
+        <indexterm>cullet</indexterm>
+        <indexterm>crusher</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>    <ol>
+    <li><p>Danger due to electric shocks:</p>
+      <ul id="ul_04073102">
+            <li>Contact with live parts will result in severe injury or death.</li>
+            <li>Maintenance work must be carried out by authorized, qualified personnel.</li>
+            <li>Never work when parts are powered, and always make sure that no electricity is supplied for the entire duration of the work.</li>
+            <li>Before performing any work, always disconnect the electrical power supply at the main or service switch, and lockout-tagout-verify the power.  Follow plant procedures.</li>
+            <li>Use electrically insulated tools.</li>
+            <li>When performing work “upstream” of the main or service switch, make sure that no electrical power is being supplied.</li>
+            <li>Place a warning sign at the locked main or service switch to indicate that work is in progress.</li>
+          </ul></li>
+    <li><p>Mechanical dangers:</p>
+      <ul id="ul_04073103">
+            <li>The cullet crusher contains moving and heavy parts, and parts under mechanical tension (V-belts, etc.), which may constitute a danger.</li>
+            <li>Maintenance work be carried out by authorized, qualified personnel.</li>
+            <li>Before working at any parts, make sure that they are not under mechanical tension.</li>
+            <li>If necessary, take measures to prevent injury, such as supporting components.</li>
+            <li>Be careful when replacing heavy machine parts.</li>
+            <li>Wear the required personal protective equipment.</li>
+            <li>When maintaining components from suppliers, review the component manufacturer’s documentation, in addition to the information in this document.</li>
+          </ul></li>
+    <li><p>Dangers due to falling parts:</p>
+      <ul id="ul_04073104">
+            <li>During work at the cullet crusher, it is possible that parts and/or transferred materials may fall.</li>
+            <li>Wear the required personal protective equipment, especially head protection.</li>
+            <li>Never stand under suspended loads.</li>
+            <li>Keep unauthorized personnel away from the danger area, and secure the danger area.</li>
+            <li>Use suitable, tested lifting equipment with appropriate lifting capacity.</li>
+          </ul></li>
+    <li><p>Danger due to materials and substances:</p>
+      <ul id="ul_04073105">
+            <li>Hazardous materials and substances (oil, etc.) are required for operation of the cullet crusher or may arise during operation.</li>
+            <li>Persons who work with hazardous materials and substances must be appropriately authorized and qualified.</li>
+            <li>Observe the manufacturer’s warning information when using operating and auxiliary materials.</li>
+            <li>Wear the required personal protective equipment, especially eye protection, protective clothing and work gloves.</li>
+            <li>Replace contaminated clothing with clean clothing immediately.</li>
+          </ul></li>
+    <li>Dangers due to gas, smoke, dust:</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <ul id="ul_04073106">
+        <li>Layers of dust form during the operation of the cullet crusher.</li>
+        <li>Only perform welding, thermal cutting, or grinding work at the cullet crusher if this has been expressly permitted by an authorized person.  This work creates a danger of fire or explosion.</li>
+        <li>Wear the required personal protective equipment, especially breathing apparatus, eye protection, and work gloves.</li>
+        <li>Before performing any welding, thermal or grinding work, clean the cullet crusher from dust and combustible materials.</li>
+        <li>Note the location of the fire alarm and fire extinguishing equipment.</li>
+        <li>Make sure that there is adequate ventilation due to danger of explosion!</li>
+        <li>Observe O-I and national regulations when working in confined spaces or containers.</li>
+        <li>Do not clean the cullet crusher using compressed air or oxygen.</li>
+      </ul>
+    </section></conbody>
+</concept>
