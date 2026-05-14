@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Toc145508201" xml:lang="en-us">
+  <title>General Maintenance Information</title>
+  <shortdesc>Maintain and clean the cullet crusher according to the frequencies shown in Section 12 in</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>parts</keyword>
+        <keyword>cullet</keyword>
+        <keyword>crusher</keyword>
+        <keyword>safety</keyword>
+        <keyword>connections</keyword>
+        <keyword>screws</keyword>
+        <indexterm>parts</indexterm>
+        <indexterm>cullet</indexterm>
+        <indexterm>crusher</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>    <ol>
+    <li><p>Maintain and clean the cullet crusher according to the frequencies shown in Section 12 in this document.</p>
+      <ul id="ul_04073112">
+            <li>Empty the cullet crusher before starting work.</li>
+            <li>Use working platforms to perform assembly work above body height.</li>
+            <li>Never climb on any part of the machine.</li>
+            <li>Use fall protection equipment when performing work at heights.</li>
+            <li>Perform regular visual inspections and function inspections to identify any damage, especially safety-related parts.</li>
+            <li>Replace worn parts or repair them.  Only use original parts or parts approved by the manufacturer.</li>
+            <li>Screws and connections under pressure can become loose. After performing maintenance or replacing machine parts, frequently inspect during the first weeks of operation, and retighten any loose screw connections to the torque specified in this document.</li>
+            <li>Re-install all safety mechanisms after work is completed.</li>
+            <li>The safety devices are fixed with captive screws. Do not remove captive screws from the safety mechanisms.  Replace damaged or missing captive screws immediately.</li>
+            <li>Allow hot parts to cool down sufficiently.</li>
+            <li>Before starting work, clean machine parts, connections and screw connections to remove oil, operating materials, and dirt.</li>
+          </ul></li>
+    <li><p>Check the tension of the V-belts after approximately 10 to 15 hours of operation.</p>
+      <ul id="ul_04073113">
+            <li>Tension the V-belts until they can be pressed in or out by approximately 3 - 5 mm in the middle.</li>
+            <li>The V-belts must not slip when the cullet crusher is running. If they do, re-tension the V-belts.</li>
+            <li>When the V-belt tension has been adjusted, firmly tighten the fixing screws of the drive unit using a spanner or similar tool.</li>
+          </ul></li>
+    <li>To adjust the distance between the impact wall and the crushing hammers:</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <ul id="ul_04073114">
+        <li>Make sure the crushing hammers are not touching the impact wall.</li>
+        <li>With the cullet crusher and drive unit running, slowly turn the adjusting unit (clockwise) in the direction of the rotor.</li>
+        <li>When the crushing hammers just touch the impact wall, move the impact wall back by approximately two rotations of the adjusting unit (counterclockwise).</li>
+      </ul>
+    </section></conbody>
+</concept>
