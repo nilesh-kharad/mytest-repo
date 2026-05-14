@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Toc145508203" xml:lang="en-us">
+  <title>Torque Table</title>
+  <shortdesc>Use this table to torque the screws.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Torque</keyword>
+        <keyword>Table</keyword>
+        <keyword>table</keyword>
+        <keyword>torque</keyword>
+        <keyword>screws</keyword>
+        <keyword>Clamping</keyword>
+        <indexterm>Torque</indexterm>
+        <indexterm>Table</indexterm>
+        <indexterm>table</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>Use this table to torque the screws.</p>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="1">Clamping Bush (type)</entry>
+              <entry morerows="1">Tightening Torque in Nm     (Ft. Lbs.)</entry>
+              <entry>Screws</entry>
+            </row>
+            <row>
+              <entry>Number</entry>
+              <entry>Size</entry>
+            </row>
+            <row>
+              <entry>1008 – 1108</entry>
+              <entry>5.6 (4.1)</entry>
+              <entry>2</entry>
+              <entry>1/4” BSW</entry>
+            </row>
+            <row>
+              <entry>1310 – 1315</entry>
+              <entry>20 (14.8)</entry>
+              <entry>2</entry>
+              <entry>3/8” BSW</entry>
+            </row>
+            <row>
+              <entry>1210 – 1215</entry>
+              <entry>20 (14.8)</entry>
+              <entry>2</entry>
+              <entry>3/8” BSW</entry>
+            </row>
+            <row>
+              <entry>1610 – 1615</entry>
+              <entry>20 (14.8)</entry>
+              <entry>2</entry>
+              <entry>3/8” BSW</entry>
+            </row>
+            <row>
+              <entry>2012</entry>
+              <entry>31 (22.9)</entry>
+              <entry>2</entry>
+              <entry>7/16” BSW</entry>
+            </row>
+            <row>
+              <entry>2517</entry>
+              <entry>48 (35.4)</entry>
+              <entry>2</entry>
+              <entry>1/2” BSW</entry>
+            </row>
+            <row>
+              <entry>3020 - 3030</entry>
+              <entry>90 (66.4)</entry>
+              <entry>2</entry>
+              <entry>5/8” BSW</entry>
+            </row>
+            <row>
+              <entry>3535</entry>
+              <entry>112 (82.6)</entry>
+              <entry>3</entry>
+              <entry>1/2” BSW</entry>
+            </row>
+            <row>
+              <entry>4040</entry>
+              <entry>170 (125.4)</entry>
+              <entry>3</entry>
+              <entry>5/8” BSW</entry>
+            </row>
+            <row>
+              <entry>4545</entry>
+              <entry>192 (141.6)</entry>
+              <entry>3</entry>
+              <entry>3/4” BSW</entry>
+            </row>
+            <row>
+              <entry>5050</entry>
+              <entry>271 (199.9)</entry>
+              <entry>3</entry>
+              <entry>7/8” BSW</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>
