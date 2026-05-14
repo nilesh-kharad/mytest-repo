@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="purpose_application" xml:lang="en-us">
+  <title>Purpose/Application</title>
+  <shortdesc>Defines the procedures for replacing the drive pulley with a clamping bush</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Purpose</keyword>
+        <keyword>Application</keyword>
+        <keyword>Defines</keyword>
+        <keyword>procedures</keyword>
+        <keyword>replacing</keyword>
+        <keyword>drive</keyword>
+        <indexterm>Purpose</indexterm>
+        <indexterm>Application</indexterm>
+        <indexterm>Defines</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>Defines the procedures for replacing the drive pulley with a clamping bush</p>
+  </body>
+</topic>
