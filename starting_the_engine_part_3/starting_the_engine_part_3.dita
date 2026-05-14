@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="starting_the_engine_part_3" xml:lang="en-us">
+  <title>
+    <b>Starting the Engine (Part 3)</b>
+  </title>
+  <shortdesc>Sit in the operator seat and fasten the seatbelt. Ensure the parking brake is applied</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>engine</keyword>
+        <keyword>before</keyword>
+        <keyword>truck</keyword>
+        <keyword>maintenance</keyword>
+        <keyword>Ensure</keyword>
+        <keyword>brake</keyword>
+        <indexterm>engine</indexterm>
+        <indexterm>before</indexterm>
+        <indexterm>truck</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Sit in the operator seat and fasten the seatbelt. Ensure the parking brake is applied before starting the engine.</p>
+    <p>Place the directional control lever in NEUTRAL. Depress the brake pedal and hold.</p>
+    <p>Turn the ignition key to the ON position. Allow the glow plug indicator light to go out before starting in cold conditions.</p>
+    <p>Turn the key to START. Release the key when the engine starts. Do not crank the engine for more than 30 seconds continuously.</p>
+    <p>Allow the engine to warm up at low idle for 3–5 minutes before beginning operation. Monitor all gauges during warm-up.</p>
+    <p>If the engine does not start after two attempts, consult the troubleshooting section or contact a qualified technician.</p>
+    <p>Page 53 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
