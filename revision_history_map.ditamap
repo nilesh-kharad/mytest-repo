@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="revision_history_map" xml:lang="en-us">
+  <title>Revision History</title>
+  <topicref href="revision_history/revision_history.dita" navtitle="Revision History" />
+</map>
