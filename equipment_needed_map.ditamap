@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="equipment_needed_map" xml:lang="en-us">
+  <title>Equipment Needed</title>
+  <topicref href="equipment_needed/equipment_needed.dita" navtitle="Equipment Needed" />
+</map>
