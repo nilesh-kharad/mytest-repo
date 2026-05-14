@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety_controls" xml:lang="en-us">
+  <title>Safety Controls</title>
+  <shortdesc>Lockout-tagout-verify the metering conveyor scale before performing work.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Safety</keyword>
+        <keyword>Controls</keyword>
+        <keyword>before</keyword>
+        <keyword>performing</keyword>
+        <keyword>chemicals</keyword>
+        <keyword>measures</keyword>
+        <indexterm>Safety</indexterm>
+        <indexterm>Controls</indexterm>
+        <indexterm>before</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <ul id="ul_040731">
+      <li>Lockout-tagout-verify the metering conveyor scale before performing work.  Follow plant procedures.</li>
+      <li>The Hazard Communication Standard (HCS) requires chemicals to have Safety Data Sheets (SDS), please refer to the SDS for chemicals listed in this SOP for additional hazards, first aid measures, toxicological information, accidental release measures, and handling/storage of the chemical.</li>
+      <li>Review the Emergency Action Plan before performing work.</li>
+      <li>Fire extinguisher nearby</li>
+    </ul>
+  </conbody>
+</concept>
