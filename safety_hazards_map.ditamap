@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="safety_hazards_map" xml:lang="en-us">
+  <title>Safety Hazards</title>
+  <topicref href="safety_hazards/safety_hazards.dita" navtitle="Safety Hazards" />
+</map>
