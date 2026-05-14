@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="respirable_crystalline_silica" xml:lang="en-us">
+  <title>Respirable Crystalline Silica</title>
+  <shortdesc>Crystalline silica has been classified as a human lung carcinogen. Additionally, breathing crystalline silica dust</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Crystalline</keyword>
+        <keyword>Respirable</keyword>
+        <keyword>Silica</keyword>
+        <keyword>silica</keyword>
+        <keyword>classified</keyword>
+        <keyword>human</keyword>
+        <indexterm>Crystalline</indexterm>
+        <indexterm>Respirable</indexterm>
+        <indexterm>Silica</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>
+      <fig>
+        <image href="../media/image1.png"/>
+      </fig>
+    </p>
+    <p>Crystalline silica has been classified as a human lung carcinogen. Additionally, breathing crystalline silica dust can cause silicosis, which in severe cases can be disabling, or even fatal</p>
+  </body>
+</topic>
