@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="equipment_needed" xml:lang="en-us">
+  <title>Equipment Needed</title>
+  <shortdesc>Cullet crusher control screen, and tools as needed to perform work.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Equipment</keyword>
+        <keyword>Needed</keyword>
+        <keyword>Cullet</keyword>
+        <keyword>crusher</keyword>
+        <keyword>control</keyword>
+        <keyword>screen</keyword>
+        <indexterm>Equipment</indexterm>
+        <indexterm>Needed</indexterm>
+        <indexterm>Cullet</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Cullet crusher control screen, and tools as needed to perform work.</p>
+  </conbody>
+</concept>
