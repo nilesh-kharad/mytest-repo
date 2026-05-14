@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="revision_history" xml:lang="en-us">
+  <title>Revision History</title>
+  <shortdesc>2023-01-10 Approved by Johnathan Fisher, SBS Manager – R&amp;D Original Issue</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Revision</keyword>
+        <keyword>History</keyword>
+        <keyword>Approved</keyword>
+        <keyword>Johnathan</keyword>
+        <keyword>Fisher</keyword>
+        <keyword>Manager</keyword>
+        <indexterm>Revision</indexterm>
+        <indexterm>History</indexterm>
+        <indexterm>Approved</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>2023-01-10</entry>
+              <entry>Approved by Johnathan Fisher, SBS Manager – R&amp;D</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Original Issue</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></body>
+</topic>
