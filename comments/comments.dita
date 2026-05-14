@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="comments" xml:lang="en-us">
+  <title>Comments</title>
+  <shortdesc>Read a section thoroughly before starting the work.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Comments</keyword>
+        <keyword>Cullet</keyword>
+        <keyword>Crusher</keyword>
+        <keyword>Read</keyword>
+        <keyword>section</keyword>
+        <keyword>thoroughly</keyword>
+        <indexterm>Comments</indexterm>
+        <indexterm>Cullet</indexterm>
+        <indexterm>Crusher</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <ul id="ul_04073101">
+      <li>Read a section thoroughly before starting the work. Personnel performing the tasks in this document must have completed the required training.</li>
+      <li>Related SOPs include:</li>
+      <li>SBS-ET-037 Troubleshooting the Cullet Crusher</li>
+      <li>SBS-OP-037 Operating the Cullet Crusher</li>
+      <li>Vendor manual in the Resources library</li>
+    </ul>
+  </conbody>
+</concept>
