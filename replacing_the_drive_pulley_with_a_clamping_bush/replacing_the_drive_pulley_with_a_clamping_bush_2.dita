@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Toc145508202" xml:lang="en-us">
+  <title>Replacing the Drive Pulley with a Clamping Bush</title>
+  <shortdesc>In addition to installing the drive pulley with a feather key connection, it can also</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>clamping</keyword>
+        <keyword>belts</keyword>
+        <keyword>pulley</keyword>
+        <keyword>screws</keyword>
+        <keyword>drive</keyword>
+        <keyword>holes</keyword>
+        <indexterm>clamping</indexterm>
+        <indexterm>belts</indexterm>
+        <indexterm>pulley</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <note type="note">In addition to installing the drive pulley with a feather key connection, it can also optionally be installed with a clamping bush.</note>
+    </context>
+    <steps id="steps_04073129">
+      <step>
+        <cmd>With the cullet crusher empty:</cmd>
+        <info>
+          <ul id="ul_04073118">
+            <li>Stop the cullet crusher using the stop pushbutton at the control cabinet.</li>
+            <li>Switch off the lockable main switch at the control cabinet.</li>
+            <li>Lockout-tagout-verify the power.  Follow plant procedures.</li>
+            <li>Verify that the feed unit is switched off and cannot be started up.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Remove the screw connections on the protective cover for the V-belts.</cmd>
+        <info>
+          <ul id="ul_04073119">
+            <li>Lift off the protective cover from the V-belts (1).</li>
+          </ul>
+          <fig>
+            <image href="../media/image2.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Loosen/remove the screw connection of the drive unit (2), and turn the tensioning screws (3) to relax the V-belts.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image3.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Remove the V-belts (4) from the cullet crusher’s drive pulley (5).</cmd>
+        <info>
+          <fig>
+            <image href="../media/image4.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Remove the V-belt pulley and clamping bush.</cmd>
+        <info>
+          <ul id="ul_04073120">
+            <li>Remove the screw connection at the clamping bush (6) using an Allen key.</li>
+            <li>Lubricate the screws, and screw into the removal bore holes (7).  (The number of screws depends on the size of the clamping bush.)</li>
+            <li>Screw the screws evenly into the removal bore holes until the clamping bush (8) has been pushed out of the hub of the V-belt pulley (9).</li>
+            <li>The V-belt pulley should move freely on the rotor shaft.</li>
+            <li>Pull the V-belt pulley and clamping bush from the rotor shaft (10).</li>
+          </ul>
+          <fig>
+            <image href="../media/image5.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Clean all smooth surfaces (e.g. bore holes, shaft, inside of clamping bush).</cmd>
+        <info>
+          <ul id="ul_04073121">
+            <li>Before performing cleaning work, seal all openings so that no water or cleaning agents are allowed to penetrate for operational or safety reasons (motors, cables, etc.).</li>
+            <li>Do not use any aggressive cleaning agents (pH value equal to or greater than 7).</li>
+            <li>Do not use any cleaning agents that contain chlorine.</li>
+            <li>After cleaning, apply a thin film of oil to bare metal surfaces.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Insert the clamping bush and the new V-belt pulley into one another.</cmd>
+        <info>
+          <ul id="ul_04073122">
+            <li>Align the holes in the clamping bush with the holes in the V-belt pulley.</li>
+            <li>Half-threaded holes must be opposite half smooth holes.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Lubricate the screws, and screw them in hand tight.</cmd>
+      </step>
+      <step>
+        <cmd>Place the feather key in the feather key groove of the rotor shaft (if present).</cmd>
+      </step>
+      <step>
+        <cmd>Lightly grease the shaft end of the rotor with lubricating grease or assembly paste.</cmd>
+      </step>
+      <step>
+        <cmd>Push the V-belt pulley with clamping bush into the rotor shaft.</cmd>
+        <info>
+          <ul id="ul_04073123">
+            <li>Use a torque wrench to tighten the screws evenly to the predefined tightening torque, as defined in the table in Section 4.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Fill open holes with lubricating grease.</cmd>
+      </step>
+      <step>
+        <cmd>Place the V-belts over the take-up pulley of the drive unit.</cmd>
+      </step>
+      <step>
+        <cmd>Align the take-up and drive pulleys straight with one another.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image6.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Tension the V-belts by turning at the tensioning screws.</cmd>
+        <info>
+          <ul id="ul_04073124">
+            <li>Verify that the take-up and drive pulleys are correctly aligned with one another.</li>
+            <li>Firmly tighten the screw fixing of the drive unit using a spanner or similar tool.</li>
+          </ul>
+          <fig>
+            <image href="../media/image7.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Mount the protective cover for the V-belts using screw connections.</cmd>
+      </step>
+      <step>
+        <cmd>Remove the lockout tagout.</cmd>
+        <info>
+          <ul id="ul_04073125">
+            <li>Switch on the cullet crusher using the lockable main switch.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Switch on the cullet crusher with the lockable main switch.</cmd>
+        <info>
+          <ul id="ul_04073126">
+            <li>Start the cullet crusher using the start pushbutton at the control cabinet.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>After 30-60 minutes of operation, check the tightening torque of the clamping bush screws.</cmd>
+        <info>
+          <ul id="ul_04073127">
+            <li>If necessary, re-tighten as indicated in the table in Section 4.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Check the tension of the V-belts after approximately 10 to 15 hours of operation.</cmd>
+      </step>
+    </steps>
+    <result>
+      <ul id="ul_04073128">
+        <li>Tension the V-belts until they can be pressed in or out by approximately 3 - 5 mm in the middle.</li>
+        <li>The V-belts must not slip when the cullet crusher is running. If they do, re-tension the V-belts.</li>
+        <li>When the V-belt tension has been adjusted, firmly tighten the fixing screws of the drive unit using a spanner or similar tool.</li>
+      </ul>
+    </result>
+  </taskbody>
+</task>
