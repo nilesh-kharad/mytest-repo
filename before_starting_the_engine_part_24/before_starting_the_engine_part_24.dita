@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="before_starting_the_engine_part_24" xml:lang="en-us">
+  <title>
+    <b>Before Starting the Engine (Part 24)</b>
+  </title>
+  <shortdesc>Perform a walk-around inspection before each shift. Check for fluid leaks under the truck. Inspect</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>level</keyword>
+        <keyword>Check</keyword>
+        <keyword>truck</keyword>
+        <keyword>before</keyword>
+        <keyword>engine</keyword>
+        <keyword>should</keyword>
+        <indexterm>level</indexterm>
+        <indexterm>Check</indexterm>
+        <indexterm>truck</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Perform a walk-around inspection before each shift. Check for fluid leaks under the truck. Inspect the mast, forks, and carriage for visible damage.</p>
+    <p>Check engine oil level using the dipstick. The oil level should be between the MIN and MAX marks. Add oil if necessary before starting.</p>
+    <p>Check coolant level in the overflow reservoir. The level should be between LOW and FULL marks. Never open the radiator cap when the engine is hot.</p>
+    <p>Check the fuel level. Refuel if necessary. Ensure the fuel cap is secure after refuelling.</p>
+    <p>Check DEF/Ad-Blue level. Refill if the warning indicator is illuminated. Use only ISO 22241-compliant DEF.</p>
+    <p>Check hydraulic oil level with the forks lowered and the engine stopped. Oil level should be at the FULL mark on the sight glass.</p>
+    <p>Page 451 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
