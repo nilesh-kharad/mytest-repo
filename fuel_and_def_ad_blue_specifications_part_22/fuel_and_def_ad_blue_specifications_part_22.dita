@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="fuel_and_def_ad_blue_specifications_part_22" xml:lang="en-us">
+  <title>
+    <b>Fuel and DEF/Ad-Blue Specifications (Part 22)</b>
+  </title>
+  <shortdesc>Use only ultra-low sulfur diesel (ULSD) with a maximum sulfur content of 15 ppm. Using</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>sulfur</keyword>
+        <keyword>diesel</keyword>
+        <keyword>litres</keyword>
+        <keyword>truck</keyword>
+        <keyword>maintenance</keyword>
+        <keyword>Fuel</keyword>
+        <indexterm>sulfur</indexterm>
+        <indexterm>diesel</indexterm>
+        <indexterm>litres</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Use only ultra-low sulfur diesel (ULSD) with a maximum sulfur content of 15 ppm. Using fuel with higher sulfur content will damage the diesel particulate filter (DPF).</p>
+    <p>Diesel Exhaust Fluid (DEF) / Ad-Blue: Use ISO 22241-compliant DEF only. Do not use water or any other fluid in the DEF tank.</p>
+    <p>DEF quality is critical to the proper operation of the Selective Catalytic Reduction (SCR) system. Contaminated DEF can cause system failure.</p>
+    <p>DEF consumption is approximately 3–5% of diesel fuel consumption. Monitor DEF level regularly and refill before the warning light activates.</p>
+    <p>Store DEF in a cool, dry location away from direct sunlight. DEF freezes at -11°C but remains usable after thawing. Shelf life is approximately 12 months at 25°C.</p>
+    <p>Fuel Tank Capacity: 150 litres (CD100S-7 / CD120S-7) | 160 litres (CD140S-7 / CD160S-7). DEF Tank Capacity: 20 litres (all models).</p>
+    <p>Page 412 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
