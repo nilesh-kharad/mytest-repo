@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="general_specifications_cd100s_7" xml:lang="en-us">
+  <title>
+    <b>General Specifications – CD100S-7</b>
+  </title>
+  <shortdesc>Model: CD100S-7 | Engine: DL06P Tier-4 | Rated Capacity: 10,000 kg | Load Centre: 600</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Speed</keyword>
+        <keyword>Tier</keyword>
+        <keyword>Overall</keyword>
+        <keyword>loaded</keyword>
+        <keyword>truck</keyword>
+        <keyword>maintenance</keyword>
+        <indexterm>Speed</indexterm>
+        <indexterm>Tier</indexterm>
+        <indexterm>Overall</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Model: CD100S-7 | Engine: DL06P Tier-4 | Rated Capacity: 10,000 kg | Load Centre: 600 mm | Lift Height: 3,300 mm (standard)</p>
+    <p>Overall Length (without forks): 3,520 mm | Overall Width: 1,350 mm | Overall Height (mast lowered): 2,390 mm | Turning Radius: 2,720 mm</p>
+    <p>Travel Speed (loaded): 22 km/h | Travel Speed (unloaded): 25 km/h | Lift Speed (loaded): 0.40 m/s | Lowering Speed (loaded): 0.50 m/s</p>
+    <p>Service Weight: 12,300 kg | Tyre Size (front): 9.00-20 | Tyre Size (rear): 7.00-15 | Fuel Tank Capacity: 150 litres</p>
+    <p>Engine Power: 118 kW | Displacement: 5,890 cc | Emissions: Tier-4 Final compliant | Cooling: Liquid cooled</p>
+    <p>Page 6 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
