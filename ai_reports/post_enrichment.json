@@ -1,0 +1,897 @@
+{
+  "job_id": "d9384f9b-6a3b-413f-8ea9-518f37cad9c3",
+  "mode": "enrich-only",
+  "output_dir": "/app/output/d9384f9b-6a3b-413f-8ea9-518f37cad9c3",
+  "processed_at": "2026-05-14T04:07:33.432916+00:00",
+  "counts": {
+    "dita_files_total": 15,
+    "ditamap_files_total": 14,
+    "topics_reclassified": 9,
+    "issues_fixed_by_zone1": 1,
+    "issues_fixed_by_ai": 18,
+    "issues_remaining": 15,
+    "ai_obligations_missed": 1,
+    "new_issues_by_ai": 0,
+    "pending_suggestions": 24
+  },
+  "quality_metrics": {
+    "element_validation_success_pct": 53,
+    "attribute_mapping_success_pct": 100,
+    "href_resolution_success_pct": 100,
+    "table_resolution": {
+      "validated": 2,
+      "total": 4,
+      "success_pct": 50
+    }
+  },
+  "token_usage": {
+    "total_input_tokens": 0,
+    "total_output_tokens": 0,
+    "total_tokens": 0,
+    "total_cost_usd": 0,
+    "by_model": {}
+  },
+  "element_counts": {
+    "ol": 2,
+    "ul": 21,
+    "table": 4,
+    "image": 7,
+    "crosslink": 0,
+    "hyperlink": 0,
+    "concept": 8,
+    "task": 1,
+    "reference": 0,
+    "topic": 6
+  },
+  "enrichment_summary": [
+    {
+      "file": "approval/approval.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "comments/comments.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "equipment_needed/equipment_needed.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "general_maintenance_information/general_maintenance_information.dita",
+      "original_type": "task",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "ppe_required/general.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "ppe_required/ppe_required.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "medium",
+      "reclassified": false,
+      "skipped": true
+    },
+    {
+      "file": "purpose_application/purpose_application.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "original_type": "task",
+      "ai_assigned_type": "task",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "respirable_crystalline_silica/respirable_crystalline_silica.dita",
+      "original_type": "topic",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "revision_history/revision_history.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "safety_controls/safety_controls.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "safety_hazards/safety_hazards.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "safety_information_before_performing_maintenance/safety_information_before_performing_maintenance.dita",
+      "original_type": "task",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "torque_table/torque_table.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    }
+  ],
+  "structural_issues_remaining": [
+    {
+      "severity": "WARNING",
+      "category": "empty_body",
+      "file": "ppe_required/ppe_required.dita",
+      "message": "<conbody> exists but has no child elements or text content",
+      "line": 5
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "ppe_required/ppe_required.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "message": "<image> #1 (href='../media/image2.png') has no alt text \u2014 required for accessibility",
+      "line": 47
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "message": "<image> #2 (href='../media/image3.png') has no alt text \u2014 required for accessibility",
+      "line": 55
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "message": "<image> #3 (href='../media/image4.png') has no alt text \u2014 required for accessibility",
+      "line": 63
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "message": "<image> #4 (href='../media/image5.png') has no alt text \u2014 required for accessibility",
+      "line": 78
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "message": "<image> #5 (href='../media/image6.png') has no alt text \u2014 required for accessibility",
+      "line": 129
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "message": "<image> #6 (href='../media/image7.png') has no alt text \u2014 required for accessibility",
+      "line": 141
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "torque_table/torque_table.dita",
+      "message": "table 1 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "torque_table/torque_table.dita",
+      "message": "table 1 row has 2 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "torque_table/torque_table.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 25
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "respirable_crystalline_silica/respirable_crystalline_silica.dita",
+      "message": "<image> #1 (href='../media/image1.png') has no alt text \u2014 required for accessibility",
+      "line": 27
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "revision_history/revision_history.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 24
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "approval/approval.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 25
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "safety_hazards/safety_hazards.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 19
+    }
+  ],
+  "enrichment_quality": {
+    "summary": {
+      "dita_file_count": 15,
+      "severity_counts": {
+        "CRITICAL": 0,
+        "WARNING": 2,
+        "INFO": 0
+      },
+      "category_counts": {
+        "missing_shortdesc": 1,
+        "missing_prolog": 1
+      }
+    },
+    "issues": [
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "ppe_required/ppe_required.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "ppe_required/ppe_required.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      }
+    ]
+  },
+  "fix_diff": {
+    "fixed_by_zone1": [
+      {
+        "file": "ppe_required/ppe_required.dita",
+        "fix": "expanded self-closing <conbody/> to explicit open/close tags"
+      }
+    ],
+    "fixed_by_ai": [
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "replacing_the_drive_pulley_with_a_clamping_bush.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "ppe_required/general.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "equipment_needed/equipment_needed.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "safety_controls/safety_controls.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "torque_table/torque_table.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "torque_table/torque_table.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "respirable_crystalline_silica/respirable_crystalline_silica.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "revision_history/revision_history.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "revision_history/revision_history.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "comments/comments.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "purpose_application/purpose_application.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "approval/approval.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "approval/approval.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "safety_information_before_performing_maintenance/safety_information_before_performing_maintenance.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "safety_hazards/safety_hazards.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "safety_hazards/safety_hazards.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "general_maintenance_information/general_maintenance_information.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      }
+    ],
+    "ai_obligations_missed": [
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "ppe_required/ppe_required.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      }
+    ],
+    "new_issues_introduced_by_ai": [],
+    "summary": {
+      "pre_enrichment_issue_count": 33,
+      "post_enrichment_issue_count": 17,
+      "backend_error_file_count": 0,
+      "fixed_by_zone1_count": 1,
+      "fixed_by_ai_count": 18,
+      "remaining_count": 15,
+      "ai_obligations_missed_count": 1,
+      "new_issues_count": 0
+    }
+  },
+  "ai_quality_review": {
+    "layer4": {
+      "overall_quality": "fair",
+      "topic_type_accuracy_pct": 0,
+      "recommendations": [],
+      "dita_best_practice_gaps": [],
+      "autofix": {
+        "fixed": [],
+        "flagged": [],
+        "failed": []
+      }
+    },
+    "layer5": {
+      "validation_passed": true,
+      "overall_accuracy_pct": 100,
+      "per_topic_issues": [
+        {
+          "severity": "WARNING",
+          "file": "approval/approval.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Approval' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "comments/comments.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Comments' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "equipment_needed/equipment_needed.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Equipment Needed' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "general_maintenance_information/general_maintenance_information.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'General Maintenance Information' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 21
+        },
+        {
+          "severity": "WARNING",
+          "file": "ppe_required/general.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'General' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 19
+        },
+        {
+          "severity": "WARNING",
+          "file": "ppe_required/ppe_required.dita",
+          "issue": "Empty body: <conbody> has no content or child elements",
+          "line": 5
+        },
+        {
+          "severity": "WARNING",
+          "file": "ppe_required/ppe_required.dita",
+          "issue": "Missing shortdesc element",
+          "reason": "Topic body has no content \u2014 shortdesc could not be generated from an empty source body",
+          "line": 3
+        },
+        {
+          "severity": "WARNING",
+          "file": "purpose_application/purpose_application.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Purpose/Application' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Replacing the Drive Pulley with a Clamping Bush' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "replacing_the_drive_pulley_with_a_clamping_bush.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Replacing the Drive Pulley with a Clamping Bush' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 19
+        },
+        {
+          "severity": "WARNING",
+          "file": "respirable_crystalline_silica/respirable_crystalline_silica.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Respirable Crystalline Silica' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "revision_history/revision_history.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Revision History' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "safety_controls/safety_controls.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Safety Controls' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "safety_hazards/safety_hazards.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Safety Hazards' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 15
+        },
+        {
+          "severity": "WARNING",
+          "file": "safety_information_before_performing_maintenance/safety_information_before_performing_maintenance.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Safety Information Before Performing Maintenance' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 21
+        },
+        {
+          "severity": "WARNING",
+          "file": "torque_table/torque_table.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Torque Table' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        }
+      ],
+      "shortdesc_issues": [
+        {
+          "file": "ppe_required/ppe_required.dita",
+          "issue": "Missing shortdesc element"
+        }
+      ],
+      "recommendations": [
+        "16 WARNING(s) \u2014 missing id, DOCTYPE, or shortdesc"
+      ],
+      "schema_validation": {
+        "schema_passed": true,
+        "total_files": 15,
+        "valid_files": 15,
+        "invalid_files": 0,
+        "results": [
+          {
+            "file": "approval.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "comments.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "equipment_needed.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "general_maintenance_information.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "general.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "ppe_required.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "purpose_application.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+            "valid": true,
+            "issues": [
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              }
+            ]
+          },
+          {
+            "file": "replacing_the_drive_pulley_with_a_clamping_bush.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "respirable_crystalline_silica.dita",
+            "valid": true,
+            "issues": [
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              }
+            ]
+          },
+          {
+            "file": "revision_history.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "safety_controls.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "safety_hazards.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "safety_information_before_performing_maintenance.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "torque_table.dita",
+            "valid": true,
+            "issues": []
+          }
+        ]
+      }
+    }
+  },
+  "element_counts_per_file": [
+    {
+      "file": "approval/approval.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "comments/comments.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "equipment_needed/equipment_needed.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "general_maintenance_information/general_maintenance_information.dita",
+      "ol": 1,
+      "ul": 3,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "ppe_required/general.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "ppe_required/ppe_required.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "purpose_application/purpose_application.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush/replacing_the_drive_pulley_with_a_clamping_bush_2.dita",
+      "ol": 0,
+      "ul": 11,
+      "table": 0,
+      "image": 6,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 1,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "replacing_the_drive_pulley_with_a_clamping_bush.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "respirable_crystalline_silica/respirable_crystalline_silica.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 1,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "revision_history/revision_history.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "safety_controls/safety_controls.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "safety_hazards/safety_hazards.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "safety_information_before_performing_maintenance/safety_information_before_performing_maintenance.dita",
+      "ol": 1,
+      "ul": 5,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "torque_table/torque_table.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    }
+  ]
+}
