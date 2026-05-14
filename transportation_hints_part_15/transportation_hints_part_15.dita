@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="transportation_hints_part_15" xml:lang="en-us">
+  <title>
+    <b>Transportation Hints (Part 15)</b>
+  </title>
+  <shortdesc>When transporting the lift truck by truck or rail, lower the forks and tilt the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>points</keyword>
+        <keyword>transport</keyword>
+        <keyword>maintenance</keyword>
+        <keyword>transporting</keyword>
+        <keyword>forks</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>points</indexterm>
+        <indexterm>transport</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>When transporting the lift truck by truck or rail, lower the forks and tilt the mast forward. Secure the lift truck with chains and binders.</p>
+    <p>The tie-down points are indicated on the lift truck frame. Use only the designated tie-down points.</p>
+    <p>Minimum chain size for tie-down: Grade 70 transport chain, 3/8 inch or equivalent.</p>
+    <p>Ensure the engine is off and the parking brake is applied. Remove the ignition key before transport.</p>
+    <p>Cover the exhaust outlet to prevent moisture and debris ingress during transport.</p>
+    <p>If transporting by crane, use only the designated lifting points. Never lift the truck by the mast or forks.</p>
+    <p>Page 285 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
