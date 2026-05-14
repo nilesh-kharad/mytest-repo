@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="approval" xml:lang="en-us">
+  <title>Approval</title>
+  <shortdesc>Representatives of the MAGMA Approval Team</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Approval</keyword>
+        <keyword>Manager</keyword>
+        <keyword>Representatives</keyword>
+        <keyword>MAGMA</keyword>
+        <keyword>Team</keyword>
+        <keyword>Person</keyword>
+        <indexterm>Approval</indexterm>
+        <indexterm>Manager</indexterm>
+        <indexterm>Representatives</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>Representatives of the MAGMA Approval Team</p>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>
+                <b>Person</b>
+              </entry>
+              <entry>
+                <b>Role</b>
+              </entry>
+            </row>
+            <row>
+              <entry>Johnathan Fisher</entry>
+              <entry>SBS Manager – R&amp;D</entry>
+            </row>
+            <row>
+              <entry>Phillip Wilson</entry>
+              <entry>EHS Continuous Improvement Manager</entry>
+            </row>
+            <row>
+              <entry>Jeremy Singletary</entry>
+              <entry>Shift Leader, Research &amp; Development</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>
