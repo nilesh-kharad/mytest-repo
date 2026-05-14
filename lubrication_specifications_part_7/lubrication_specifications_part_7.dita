@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lubrication_specifications_part_7" xml:lang="en-us">
+  <title>
+    <b>Lubrication Specifications (Part 7)</b>
+  </title>
+  <shortdesc>Engine Oil: Use API CJ-4 or higher rated diesel engine oil. Viscosity: SAE 10W-30 for</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>service</keyword>
+        <keyword>hours</keyword>
+        <keyword>CROWN</keyword>
+        <keyword>Change</keyword>
+        <keyword>approved</keyword>
+        <keyword>interval</keyword>
+        <indexterm>service</indexterm>
+        <indexterm>hours</indexterm>
+        <indexterm>CROWN</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Engine Oil: Use API CJ-4 or higher rated diesel engine oil. Viscosity: SAE 10W-30 for temperatures -10°C to 40°C; SAE 15W-40 for temperatures above 0°C.</p>
+    <p>Transmission Oil: Use CROWN approved ATF Dexron III or equivalent. Change interval: Every 1000 service hours or 6 months, whichever comes first.</p>
+    <p>Hydraulic Oil: Use CROWN approved hydraulic oil ISO VG 46. Change interval: Every 2000 service hours or annually. Filter change every 500 hours.</p>
+    <p>Differential and Final Drive Oil: Use SAE 80W-90 GL-5 gear oil. Change interval: Every 2000 service hours or annually.</p>
+    <p>Grease Points: Use lithium-based NLGI Grade 2 multipurpose grease. Lubricate all grease fittings every 250 service hours or monthly.</p>
+    <p>Coolant: Use CROWN approved ethylene glycol-based coolant diluted 50/50 with water. Change every 2000 service hours or annually.</p>
+    <p>Page 125 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
