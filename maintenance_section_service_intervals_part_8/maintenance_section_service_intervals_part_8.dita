@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="maintenance_section_service_intervals_part_8" xml:lang="en-us">
+  <title>
+    <b>Maintenance Section – Service Intervals (Part 8)</b>
+  </title>
+  <shortdesc>First 50–100 Service Hours or 1 Week: Change engine oil and filter. Check all fluid</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Inspect</keyword>
+        <keyword>Service</keyword>
+        <keyword>Hours</keyword>
+        <keyword>Check</keyword>
+        <keyword>filter</keyword>
+        <keyword>Every</keyword>
+        <indexterm>Inspect</indexterm>
+        <indexterm>Service</indexterm>
+        <indexterm>Hours</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>First 50–100 Service Hours or 1 Week: Change engine oil and filter. Check all fluid levels. Inspect tyres for damage and inflation pressure. Check battery electrolyte level.</p>
+    <p>Every 500 Service Hours or 3 Months: Change engine oil and filter. Inspect air cleaner element. Check fuel filter. Inspect cooling system hoses. Lubricate all grease fittings.</p>
+    <p>Every 1000 Service Hours or 6 Months: Replace fuel filter. Inspect and adjust valve clearances. Check and replace transmission fluid if required. Inspect brakes.</p>
+    <p>Every 1500 Service Hours or 9 Months: Inspect and service hydraulic system. Check all electrical connections. Inspect mast chains and lubricate. Check carriage rollers.</p>
+    <p>Every 2000 Service Hours or Yearly: Replace coolant. Inspect and replace hydraulic filter. Complete brake inspection and adjustment. Inspect and replace timing belt.</p>
+    <p>Every 4500 Service Hours or 36 Months: Replace all rubber hoses. Complete powertrain inspection. Replace hydraulic oil. Inspect and service all safety systems.</p>
+    <p>Page 143 of 500  |  CD100S-7 / CD120S-7 / CD140S-7 / CD160S-7 Operation &amp; Maintenance Manual  |  DL06P Tier-4</p>
+    <p>Always follow all safety precautions when operating or maintaining this equipment.</p>
+    <p>Ensure all operators are properly trained and certified before operating the lift truck.</p>
+    <p>Regular maintenance is essential to safe and efficient operation of the lift truck.</p>
+    <p>Contact your local CROWN dealer for parts, service, and technical support.</p>
+    <p>Keep this manual with the lift truck at all times for reference by operators and technicians.</p>
+    <p>Record all service and maintenance activities in the maintenance logbook.</p>
+    <p>Only use genuine CROWN replacement parts to maintain warranty and performance.</p>
+  </conbody>
+</concept>
